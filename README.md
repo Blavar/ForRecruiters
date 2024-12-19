@@ -43,8 +43,6 @@ Russel S., Norvig P., 'Artificial Intelligence: A Modern Approach', Prentice Hal
 Spivak M., 'Calculus', Cambridge University Press, 4th ed., 2008
 
 
-Statistics
-
 Recurring:
 Artin M., 'Algebra', Pearson, 2nd ed., 2010
 Blackburn P., Rijke M., Venema Y., 'Modal Logic', Cambridge University Press, 2002
