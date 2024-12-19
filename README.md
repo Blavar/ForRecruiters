@@ -37,43 +37,43 @@ For what it's worth, here are some of the resources I've devoured/am in the midd
 
 
 Currently reading:
-Blitzstein J. K., Hwang J., 'Introduction to Probability', CRC Press, 2nd ed., 2019
-Cormen T.H., Leiserson C.R., Rivest R.L., Stein C., 'Introdution to Algorithms', MIT Press, 3rd ed., 2009
-Russel S., Norvig P., 'Artificial Intelligence: A Modern Approach', Prentice Hall, 3rd ed., 2010
-Spivak M., 'Calculus', Cambridge University Press, 4th ed., 2008
+* Blitzstein J. K., Hwang J., 'Introduction to Probability', CRC Press, 2nd ed., 2019
+* Cormen T.H., Leiserson C.R., Rivest R.L., Stein C., 'Introdution to Algorithms', MIT Press, 3rd ed., 2009
+* Russel S., Norvig P., 'Artificial Intelligence: A Modern Approach', Prentice Hall, 3rd ed., 2010
+* Spivak M., 'Calculus', Cambridge University Press, 4th ed., 2008
 
 
 Recurring:
-Artin M., 'Algebra', Pearson, 2nd ed., 2010
-Blackburn P., Rijke M., Venema Y., 'Modal Logic', Cambridge University Press, 2002
-Bóna M., 'A Walk Through Combinatorics', World Scientific, 2nd ed., 2006
-Casciaro M., Mammino L., 'Node.js Design Patterns', Packt, 3rd ed., 2020
-Gamma E., Helm R., Johnson R., Vlissides J., 'Design Patterns: Elements of Reusable Object-Oriented Software', Addison-Wesley, 1st ed., 1994
-Gareth J., Witten D., Hastie T., Tibshirani R., Taylor J., 'An Itroduction to Statistical Learning with Apllications in Python', Springer, 2023
-Holovaty A., Kaplan-Moss J., 'The Django Book', Apress, 2009
-Meyers S., 'Effective C++', Addison-Wesley, 3rd ed., 2008
-Nystrom R., 'Game Programming Patterns', Genever Benning, 1st ed., 2014
-Simpson K., 'You Don't Know JS' Series, O'Reilly
-Rudin W., 'Principles of Mathematical Analysis', McGraw Hill, 3rd ed., 1976
+* Artin M., 'Algebra', Pearson, 2nd ed., 2010
+* Blackburn P., Rijke M., Venema Y., 'Modal Logic', Cambridge University Press, 2002
+* Bóna M., 'A Walk Through Combinatorics', World Scientific, 2nd ed., 2006
+* Casciaro M., Mammino L., 'Node.js Design Patterns', Packt, 3rd ed., 2020
+* Gamma E., Helm R., Johnson R., Vlissides J., 'Design Patterns: Elements of Reusable Object-Oriented Software', Addison-Wesley, 1st ed., 1994
+* Gareth J., Witten D., Hastie T., Tibshirani R., Taylor J., 'An Itroduction to Statistical Learning with Apllications in Python', Springer, 2023
+* Holovaty A., Kaplan-Moss J., 'The Django Book', Apress, 2009
+* Meyers S., 'Effective C++', Addison-Wesley, 3rd ed., 2008
+* Nystrom R., 'Game Programming Patterns', Genever Benning, 1st ed., 2014
+* Simpson K., 'You Don't Know JS' Series, O'Reilly
+* Rudin W., 'Principles of Mathematical Analysis', McGraw Hill, 3rd ed., 1976
 
 
 Done:
-Haverbeke M., 'Eloquent Javascript', No Starch Press, 3rd. ed., 2018
-Lutz M., 'Learning Python', O'Reilly, 4th ed., 2009
-Ramalho L., 'Fluent Python', O'Reilly, 1st ed., 2015
-Sedgewick R., Wayne K., 'Algorithms', Addison-Wesley, 4th ed., 2011
-Wexler J., 'Get Programming with Node.js', Manning, 1st ed., 2019
+* Haverbeke M., 'Eloquent Javascript', No Starch Press, 3rd. ed., 2018
+* Lutz M., 'Learning Python', O'Reilly, 4th ed., 2009
+* Ramalho L., 'Fluent Python', O'Reilly, 1st ed., 2015
+* Sedgewick R., Wayne K., 'Algorithms', Addison-Wesley, 4th ed., 2011
+* Wexler J., 'Get Programming with Node.js', Manning, 1st ed., 2019
 
 
 Lectures:
 
-Abstarct Algebra, Benedict Gross, Harvard
+* Abstarct Algebra, Benedict Gross, Harvard
 https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5
 
-AI, Patrick Winston, MIT:
+* AI, Patrick Winston, MIT:
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
-Harvard CS50's Artificial Intelligence with Python 
+* Harvard CS50's Artificial Intelligence with Python 
 https://www.youtube.com/watch?v=5NgNicANyqM
 
 
