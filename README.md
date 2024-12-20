@@ -22,7 +22,7 @@ brevity for more insight into how I do things. I You ever feel like dozing off,
 You might just skip a bit, after all.
 
 BUT, I think it's time for you to, preferably, pull the repo and start chewing into
-this clusterf*** of a portofolio. Sit down, relax, and pretend that You're watching
+this... portofolio. Sit down, relax, and pretend that You're watching
 a cartoon episode. Enjoy.
 
 
